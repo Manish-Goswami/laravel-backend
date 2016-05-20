@@ -6,7 +6,7 @@
  * and open the template in the editor.
  */
 
-echo 'Hi Priyank';  
+echo 'Hi Priyank';  //Hi manish
 <?php
 
 /* 
