@@ -6,6 +6,4 @@
  * and open the template in the editor.
  */
 
-/* Changes are here. */
-
-
+echo 'main page';
